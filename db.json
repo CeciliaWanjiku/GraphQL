@@ -1,0 +1,76 @@
+{
+    "users": [
+        {
+            "id": 46791,
+            "email": "VWall@lorem.net",
+            "username": "MMichalowski",
+            "teamId": 0,
+            "address": {
+                "streetAddress": "2003 Sed Ct",
+                "city": "Palmer",
+                "state": "NJ",
+                "zip": "52289"
+            }
+        },
+        {
+            "id": 46792,
+            "email": "HButler@sollicitudin.gov",
+            "username": "SButterfield",
+            "teamId": 2,
+            "address": {
+                "streetAddress": "8942 Odio Ave",
+                "city": "Sebring",
+                "state": "NJ",
+                "zip": "21723"
+            }
+        },
+        {
+            "id": 46793,
+            "email": "DPaluszek@tortor.net",
+            "username": "HTorres",
+            "teamId": 0,
+            "address": {
+                "streetAddress": "8883 Lacus Ave",
+                "city": "Brandon",
+                "state": "MO",
+                "zip": "12556"
+            }
+        },
+        {
+            "id": 46794,
+            "email": "MGipple@placerat.org",
+            "username": "YHull",
+            "teamId": 0,
+            "address": {
+                "streetAddress": "3166 Consequat Ln",
+                "city": "Inez",
+                "state": "IN",
+                "zip": "53558"
+            }
+        },
+        {
+            "id": 46795,
+            "email": "NDerryberry@scelerisque.ly",
+            "username": "EThomason",
+            "teamId": 0,
+            "address": {
+                "streetAddress": "459 Sed St",
+                "city": "Bessemer City",
+                "state": "MA",
+                "zip": "69892"
+            }
+        }
+    ],
+    "teams": [
+        {
+            "id": 2,
+            "profile": "amet et morbi porttitor pharetra",
+            "name": "Filleul Incorporated"
+        },
+        {
+            "id": 0,
+            "profile": "nec magna tempor malesuada velit",
+            "name": "Seguin Industries"
+        }
+    ]
+}
